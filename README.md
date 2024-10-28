@@ -1,4 +1,4 @@
 # first_demo
 This is my first git repository
 <br>
-Author - Gourav Mittal
+Author - Gourav Mittal (IIM Shillong)
